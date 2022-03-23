@@ -80,3 +80,5 @@ crashlytics-build.properties
 .idea/.idea.Unity Basic Frame-En/.idea/indexLayout.xml
 .idea/.idea.Unity Basic Frame-En/.idea/misc.xml
 .idea/.idea.Unity Basic Frame-En/.idea/vcs.xml
+Packages/
+ProjectSettings/
