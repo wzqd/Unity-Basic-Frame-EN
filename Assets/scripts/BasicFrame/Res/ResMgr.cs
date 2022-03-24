@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 
 
-#region Resource Load Manager
+#region Resource Loading Manager
 //It tweaks the original load and loadAsync methods in Resources class
 //The new methods directly use the resources after loading in to memory space
 
