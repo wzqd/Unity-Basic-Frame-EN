@@ -4,16 +4,21 @@ Unity Basic Frame with English comments
 The contents of this repo is the same as the ones in Basic-Frame-CN.
 The only difference is commenting language
 
-2202-3-26
+2202-10-3
 -----------------------
-Updated the all scripts of the basic frame, excpet for the FSM (still need to modify)
+Updated the all scripts of the basic frame
 
-Singleton base class  
+Singleton Base class  
 Singleton Base Class Inheriting MonoBehavior  
+Singleton Base Class Inheriting MonoBehavior used by Dragging
 Public MonoBehavior Class  
 Resource Loading Manager  
-Event center manager  
-Input manager  
+Event Center Manager  
+Input Manager  
 Object pool manager  
 Timing Manager  
-XML data persistence manager  
+XML Data Persistence Manager  
+FSM Base Class  
+UI Manager  
+Audio Manager  
+
